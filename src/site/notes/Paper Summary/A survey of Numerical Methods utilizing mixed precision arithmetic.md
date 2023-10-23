@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/paper-summary/a-survey-of-numerical-methods-utilizing-mixed-precision-arithmetic/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"A survey of Numerical Methods utilizing mixed precision arithmetic","dg-publish":true,"dg-home":false,"permalink":"/paper-summary/a-survey-of-numerical-methods-utilizing-mixed-precision-arithmetic/","dgPassFrontmatter":true}
 ---
 
 
