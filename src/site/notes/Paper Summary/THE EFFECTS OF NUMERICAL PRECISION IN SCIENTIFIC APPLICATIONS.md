@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/paper-summary/the-effects-of-numerical-precision-in-scientific-applications/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/paper-summary/the-effects-of-numerical-precision-in-scientific-applications/","dgPassFrontmatter":true}
 ---
 
 
