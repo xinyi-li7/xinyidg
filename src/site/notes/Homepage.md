@@ -14,20 +14,14 @@ My research passion lies in understanding numerical behaviors and ensuring numer
 
 ==I am actively seeking postdoctoral positions and job opportunities where I can further apply and expand upon my expertise in Spring 2024 now!==
 
-
-
-
-
-
-
 > [!multi-column|center-fixed]
 > 
->> [!tldr]- [[cv.pdf|CV]]
+>> [!tldr|pw2]- [[cv.pdf|CV]]
 >
->> [!Note]- Blog
+>> [!Note|pw2]- Blog
 >
->> [!example] Publications
+>> [!example|pw3] Publications
 >
->> [!question] Contacts
+>> [!question|] Contacts
 >> 
 
