@@ -1,5 +1,5 @@
 ---
-{"title":"Conjugate Gradient","tags":["Mathematical"],"sticky":100,"dg-publish":true,"permalink":"/notes/cg/conjugate-gradient/","dgPassFrontmatter":true}
+{"title":"Conjugate Gradient","tags":["Mathematical"],"dg-publish":true,"permalink":"/notes/cg/conjugate-gradient/","dgPassFrontmatter":true}
 ---
 
 ### Motivation
