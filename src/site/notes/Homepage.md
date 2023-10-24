@@ -21,6 +21,8 @@ My research passion lies in understanding numerical behaviors and ensuring numer
 >> [!Note]- Blog
 >
 >> [!example] Publications
->
+
+
+> [!multi-column|center-fixed]
 >> [!question|] Contacts
 >>[![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu)
