@@ -4,7 +4,7 @@
 
 ## About Me
 
-> [!info|right-medium] Arches
+> [!info|float-right-medium] At Arches
 > ![index.jpg](/img/user/img/index.jpg)
 
 
