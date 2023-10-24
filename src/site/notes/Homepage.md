@@ -5,7 +5,7 @@
 ## About Me
 
 > [!info|right-medium] Arches
-> ![study.jpg](/img/user/img/study.jpg)
+> ![index.jpg](/img/user/img/index.jpg)
 
 
 I'm currently a fifth-year Ph.D. candidate at the [University of Utah](https://www.utah.edu/, I specialize in the analysis of floating point behaviors within high-performance systems.I have the fortune to be advised by [Prof. Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/). Before this, I earned my Master's in Computer Science at [the University of Texas at Dallas](https://www.utdallas.edu/) under the guidance of [Prof. Kyle Fox](https://personal.utdallas.edu/~kyle.fox/). I hold a Bachelor of Science degree from the [Beijing University of Posts and Telecommunications](http://bupt.admissions.cn/) in the field of Internet of Science.
