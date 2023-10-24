@@ -16,13 +16,13 @@ My research passion lies in understanding numerical behaviors and ensuring numer
 
 > [!multi-column|center-fixed]
 > 
->> [!tldr]- [[cv/CV\|CV]]
+>> [!tldr]- [CV](https://www.dropbox.com/scl/fi/kguj7ssoveh9bjkskipbr/cv.pdf?rlkey=rhxb4dqsrvc9grkait1wxu5cc&dl=0)
 >
 >> [!Note]- Blog
 >
 >> [!example] Publications
 
 
-> [!multi-column|center-fixed]
->> [!question|] Contacts
->>[![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu)
+
+> [!question|] Contacts
+>[![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu)
