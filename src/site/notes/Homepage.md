@@ -20,7 +20,7 @@ My research passion lies in understanding numerical behaviors and ensuring numer
 
 
 
-> [!multi-column]
+> [!multi-column|center-fixed]
 > 
 >> [!tldr]- [[cv.pdf|CV]]
 >
