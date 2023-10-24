@@ -2,22 +2,15 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+## About Me
+
+> [!info|right-medium] Arches
+> ![[index.JPG]]
 
 
+I'm currently a fifth-year Ph.D. candidate at the [University of Utah](https://www.utah.edu/, I specialize in the analysis of floating point behaviors within high-performance systems.I have the fortune to be advised by [Prof. Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/). Before this, I earned my Master's in Computer Science at [the University of Texas at Dallas](https://www.utdallas.edu/ under the guidance of [Prof. Kyle Fox](https://personal.utdallas.edu/~kyle.fox/). I hold a Bachelor of Science degree from the [Beijing University of Posts and Telecommunications](http://bupt.admissions.cn/) in the field of Internet of Science.
 
-> [!multi-column|center-fixed-small]
->
->> [!blank|center]
->> [![lightbulb icon|80](https://img.icons8.com/ios/250/FFFFFF/light-on.png) <br/> Interests](target%20note.md)
->>
->> [![macbook icon|80](https://img.icons8.com/ios/250/FFFFFF/macbook.png) <br/> Technology](target%20note.md)
->
->> [!blank|center]
->> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/brain.png) <br/> Life & Wisdom](target%20note.md)
->>
->> [![briefcase icon|80](https://img.icons8.com/ios/250/FFFFFF/business.png) <br/> Work](target%20note.md)
->
->> [!blank|center]
->> [![running icon|80](https://img.icons8.com/ios/250/FFFFFF/sports-mode.png) <br/> Health](target%20note.md)
->>
->> [![home icon|80](https://img.icons8.com/ios/250/FFFFFF/house-with-a-garden.png) <br/> Family](target%20note.md)
+My research passion lies in understanding numerical behaviors and ensuring numerical correctness, especially in high-performance accelerators like NVIDIA and AMD GPUs. I delve deep into topics such as Floating-point Error and Exception Analysis, High-Performance Computing, and Binary Instrumentation.
+
+==I am actively seeking postdoctoral positions and job opportunities where I can further apply and expand upon my expertise in Spring 2024 now!==
+
