@@ -600,7 +600,7 @@ body{
 	:is(div:has(> ul [data-heading*="#mcl/list-card"]), .tag-mcllist-card) ul img {margin: 0; float: none;}
 
 	p:empty + .callout {
-	    margin-top: 0;
+    		display: none;
 	}
 	/* special adjustment for Sanctum */
 	.markdown-rendered .tag-mcllist-card ul img[alt*=right] {margin: 0;}
