@@ -16,12 +16,11 @@ My research passion lies in understanding numerical behaviors and ensuring numer
 
 > [!multi-column|center-fixed]
 > 
->> [!tldr|pw2]- [[cv.pdf|CV]]
+>> [!tldr]- [[cv.pdf|CV]]
 >
->> [!Note|pw2]- Blog
+>> [!Note]- Blog
 >
->> [!example|pw3] Publications
+>> [!example] Publications
 >
 >> [!question|] Contacts
 >> 
-
