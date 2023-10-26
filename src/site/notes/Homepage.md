@@ -12,6 +12,8 @@ I'm currently a fifth-year Ph.D. candidate at the [University of Utah](https://w
 
 My research passion lies in understanding numerical behaviors and ensuring numerical correctness, especially in high-performance accelerators like NVIDIA and AMD GPUs. I delve deep into topics such as Floating-point Error and Exception Analysis, High-Performance Computing, and Binary Instrumentation.
 
+I contributed to ...
+
 ==I am actively seeking postdoctoral positions and job opportunities where I can further apply and expand upon my expertise in Spring 2024 now!==
 
 > [!multi-column|center-fixed]
@@ -20,7 +22,7 @@ My research passion lies in understanding numerical behaviors and ensuring numer
 >
 >> [!Note]- Blog
 >
->> [!example] Publications
+>> [!example] [[Publications\|Publications]]
 
 
 
