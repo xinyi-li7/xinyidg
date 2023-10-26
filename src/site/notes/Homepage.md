@@ -20,7 +20,7 @@ I contributed to ...
 > 
 >> [!tldr]- [CV](https://www.dropbox.com/scl/fi/kguj7ssoveh9bjkskipbr/cv.pdf?rlkey=rhxb4dqsrvc9grkait1wxu5cc&dl=0)
 >
->> [!Note]- Blog
+>> [!Note]- [[Blogs/Blogs Map\|Blogs]]
 >
 >> [!example] [[Publications\|Publications]]
 
