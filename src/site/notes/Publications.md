@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publications/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/publications/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-24T21:31:36.543-06:00","updated":"2023-10-25T21:15:10.517-06:00"}
 ---
 
 [1] Numerical Correctness in AMD and NVIDIA GPUs. **Xinyi Li**, Ang Li, Bo Fang, Ignacio Laguna and Ganesh Gopalakrishnan. *In submission*
