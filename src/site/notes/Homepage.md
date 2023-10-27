@@ -3,13 +3,11 @@
 ---
 
 ## About Me
+>[!blank] 
+> [![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu), [![Pasted image 20231026233817.png|25](/img/user/attachment/Pasted%20image%2020231026233817.png)](https://scholar.google.com/citations?user=EOa-9jEAAAAJ&hl=en)
 
 > [!blank|float-left-medium] 
 > ![index.jpg](/img/user/img/index.jpg)
-
-
->[!blank] 
-> [![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu), [![Pasted image 20231026233817.png|25](/img/user/attachment/Pasted%20image%2020231026233817.png)](https://scholar.google.com/citations?user=EOa-9jEAAAAJ&hl=en)
 
 
 I'm currently a fifth-year Ph.D. candidate at the [University of Utah](https://www.utah.edu/), I specialize in the analysis of floating point behaviors within high-performance systems.I have the fortune to be advised by [Prof. Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/). Before this, I earned my Master's in Computer Science at [the University of Texas at Dallas](https://www.utdallas.edu/) under the guidance of [Prof. Kyle Fox](https://personal.utdallas.edu/~kyle.fox/). I hold a Bachelor of Science degree from the [Beijing University of Posts and Telecommunications](http://bupt.admissions.cn/) in the field of Internet of Science.
