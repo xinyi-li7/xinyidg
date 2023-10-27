@@ -11,7 +11,7 @@ Tensor cores is to compute $$D = A\times B + C $$ Hence, ==before== going to ten
  > The conversion loss is what Markidis‘s et al. consider mainly. 
 #### Markidis‘s correction algorithm 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blogs/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/#81411a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/paper-summary/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/#81411a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -22,7 +22,7 @@ Tensor cores is to compute $$D = A\times B + C $$ Hence, ==before== going to ten
 #### Accurate?
 ###### Evaluation metric
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blogs/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/#0a8136" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/paper-summary/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/#0a8136" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -39,7 +39,7 @@ Tensor cores is to compute $$D = A\times B + C $$ Hence, ==before== going to ten
 3. [[Paper Summary/Recovering single precision accuracy from Tensor Cores while surpassing the FP32 theoretical peak performance#Evaluate the probability of underflow when computing $ Delta$\|Underflow when computing $\Delta$]]
 #### The new algorithm
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blogs/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/#f0804b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/paper-summary/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/#f0804b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -51,7 +51,7 @@ Tensor cores is to compute $$D = A\times B + C $$ Hence, ==before== going to ten
 
 #### Lessons
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blogs/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/#lessons" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/paper-summary/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/#lessons" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
