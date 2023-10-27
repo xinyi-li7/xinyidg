@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/implement-neural-network/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"Blogs/Implement neural network.md","permalink":"/blogs/implement-neural-network/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:11.099-07:00","updated":"2023-10-27T14:37:50.834-06:00"}
 ---
 
 - Link: https://towardsdatascience.com/an-introduction-to-neural-networks-with-implementation-from-scratch-using-python-da4b6a45c05b
