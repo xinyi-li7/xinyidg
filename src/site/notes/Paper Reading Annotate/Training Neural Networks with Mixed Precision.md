@@ -1,5 +1,5 @@
 ---
-{"annotation-target":"slides/5-1_Internal Speaker_Michael Carilli_PDF For Sharing.pdf","dg-publish":true,"permalink":"/paper-reading-annotate/training-neural-networks-with-mixed-precision/","dgPassFrontmatter":true,"noteIcon":""}
+{"annotation-target":"slides/5-1_Internal Speaker_Michael Carilli_PDF For Sharing.pdf","dg-publish":true,"permalink":"/paper-reading-annotate/training-neural-networks-with-mixed-precision/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:08.587-07:00","updated":"2023-10-27T14:38:44.945-06:00"}
 ---
 
 
