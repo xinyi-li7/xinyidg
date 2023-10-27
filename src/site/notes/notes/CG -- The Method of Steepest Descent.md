@@ -1,5 +1,5 @@
 ---
-{"title":"CG -- The Method of Steepest Descent","tags":["Mathematical"],"dg-publish":true,"dg-path":"Blogs/CG -- The Method of Steepest Descent.md","permalink":"/blogs/cg-the-method-of-steepest-descent/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"CG -- The Method of Steepest Descent","tags":["Mathematical"],"dg-publish":true,"permalink":"/notes/cg-the-method-of-steepest-descent/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### Definitions
