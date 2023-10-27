@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fp-checker-and-f-li-t-analysis-tiny/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"Blogs/FPChecker and FLiT Analysis -- tiny.md","permalink":"/blogs/fp-checker-and-f-li-t-analysis-tiny/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:09.939-07:00","updated":"2023-10-24T01:21:45.713-06:00"}
 ---
 
 ### Clean run
