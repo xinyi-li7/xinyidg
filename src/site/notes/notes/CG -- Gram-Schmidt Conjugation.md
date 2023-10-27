@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/CG -- Gram-Schmidt Conjugation.md","permalink":"/blogs/cg-gram-schmidt-conjugation/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/cg-gram-schmidt-conjugation/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### Motivation
