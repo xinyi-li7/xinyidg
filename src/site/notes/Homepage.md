@@ -18,11 +18,11 @@ My Maser's work also gives me firm grounding in rigorous analysis of algorithms,
 
 > [!multi-column|center-fixed]
 > 
->> [!tldr|center]- [CV](https://www.dropbox.com/scl/fi/kguj7ssoveh9bjkskipbr/cv.pdf?rlkey=rhxb4dqsrvc9grkait1wxu5cc&dl=0)
+>> [!tldr|pw3]- [CV](https://www.dropbox.com/scl/fi/kguj7ssoveh9bjkskipbr/cv.pdf?rlkey=rhxb4dqsrvc9grkait1wxu5cc&dl=0)
 >
->> [!Note|center]- [[Blogs/Blogs Map\|Blogs]]
+>> [!Note|pw3]- [[Blogs/Blogs Map\|Blogs]]
 >
->> [!example|center] [[Publications\|Publications]]
+>> [!example|pw3] [[Publications\|Publications]]
 >
->> [!question|center] Contacts
+>> [!question|pw4] Contacts
 >> [![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu)
