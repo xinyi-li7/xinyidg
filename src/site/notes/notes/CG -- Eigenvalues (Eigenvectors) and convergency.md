@@ -1,5 +1,5 @@
 ---
-{"title":"CG -- Eigenvalues (Eigenvectors) and convergency","tags":["Mathematical"],"dg-publish":true,"dg-path":"Blogs/CG -- Eigenvalues (Eigenvectors) and convergency.md","permalink":"/blogs/cg-eigenvalues-eigenvectors-and-convergency/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"CG -- Eigenvalues (Eigenvectors) and convergency","tags":["Mathematical"],"dg-publish":true,"permalink":"/notes/cg-eigenvalues-eigenvectors-and-convergency/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### Apply a matrix to Eigenvectors \<=> Apply an eigenvalue to this vector
