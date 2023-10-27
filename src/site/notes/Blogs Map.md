@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-map/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-25T20:19:42.787-06:00","updated":"2023-10-27T14:12:22.800-06:00"}
+{"dg-publish":true,"permalink":"/blogs-map/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-25T20:19:42.787-06:00","updated":"2023-10-27T15:45:46.427-06:00"}
 ---
 
 
 ### Paper Reading
-[[Presentation/Recovering single precision accuracy from Tensor Cores while surpassing the FP32 theoretical peak performance\|Recovering single precision accuracy from Tensor Cores while surpassing the FP32 theoretical peak performance]]
+[[Presentation/Recovering single precision accuracy from Tensor Cores while surpassing the FP32 theoretical peak performance -- Hiroyuki Ootomo, Rio Yokota\|Recovering single precision accuracy from Tensor Cores while surpassing the FP32 theoretical peak performance -- Hiroyuki Ootomo, Rio Yokota]]
 
 ### FPChecker
 [[notes/FPChecker\|FPChecker]]
