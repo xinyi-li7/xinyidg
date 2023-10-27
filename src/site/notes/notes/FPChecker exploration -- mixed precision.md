@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fp-checker-exploration-mixed-precision/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"Blogs/FPChecker exploration -- mixed precision.md","permalink":"/blogs/fp-checker-exploration-mixed-precision/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:09.976-07:00","updated":"2023-10-24T01:21:49.877-06:00"}
 ---
 
 - tag: #Project 
