@@ -151,7 +151,7 @@ body{
 	div[data-callout="multi-column"].callout:not(.is-collapsed) .callout { margin-inline: var(--callout-margin); margin-block: var(--callout-margin); } /* to allow spacing for box shadow */
 	div[data-callout="multi-column"].callout .callout .callout-content { flex-grow: 1}
 
-	/*div[data-callout="multi-column"].callout > .callout-content > *:is(div,ul,blockquote,p) { flex: 1 1 var(--callout-min-width); margin: 0;}*/
+	div[data-callout="multi-column"].callout > .callout-content > *:is(div,ul,blockquote,p) { flex: 1 1 var(--callout-min-width); margin: 0;}
 
 	/* metadata "wide-x" to control subcallout flexible max width. only discrete 2,4,8,16 */
 	div[data-callout="multi-column"].callout > .callout-content > div[data-callout-metadata*="min-0"] { flex-basis: 0; }
