@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paper-summary/the-effects-of-numerical-precision-in-scientific-applications/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-03-09T13:16:37.400-07:00","updated":"2023-10-22T21:22:14.985-06:00"}
+{"dg-publish":true,"dg-path":"Blogs/THE EFFECTS OF NUMERICAL PRECISION IN SCIENTIFIC APPLICATIONS.md","permalink":"/blogs/the-effects-of-numerical-precision-in-scientific-applications/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-03-09T13:16:37.400-07:00","updated":"2023-10-22T21:22:14.985-06:00"}
 ---
 
 
