@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fp-checker/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"Blogs/FPChecker.md","permalink":"/blogs/fp-checker/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:10.064-07:00","updated":"2023-10-24T01:21:19.256-06:00"}
 ---
 
 [[notes/FPChecker Installation\|FPChecker Installation]]
