@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/FPChecker issue -- cannot link the openMP lib.md","permalink":"/blogs/fp-checker-issue-cannot-link-the-open-mp-lib/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/fp-checker-issue-cannot-link-the-open-mp-lib/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 - Link: https://github.com/LLNL/FPChecker/blob/master/tests/cpu_checking/dynamic/test_openmp/Makefile
