@@ -4,7 +4,7 @@
 
 ## About Me
 
-> [!info|float-left-medium] At Arches
+> [!blank|float-left-medium] 
 > ![index.jpg](/img/user/img/index.jpg)
 > 
 > [![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu), [![Pasted image 20231026233817.png|25](/img/user/attachment/Pasted%20image%2020231026233817.png)](https://scholar.google.com/citations?user=EOa-9jEAAAAJ&hl=en)
