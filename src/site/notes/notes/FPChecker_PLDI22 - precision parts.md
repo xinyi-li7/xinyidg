@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/FPChecker_PLDI22 - precision parts.md","permalink":"/blogs/fp-checker-pldi-22-precision-parts/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/fp-checker-pldi-22-precision-parts/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### What we could tell: 
