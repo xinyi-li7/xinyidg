@@ -1,5 +1,5 @@
 ---
-{"title":"CG -- The Method of Conjugate Directions","tags":["Mathematical"],"dg-publish":true,"permalink":"/notes/cg-the-method-of-conjugate-directions/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"CG -- The Method of Conjugate Directions","tags":["Mathematical"],"dg-publish":true,"dg-path":"Blogs/CG -- The Method of Conjugate Directions.md","permalink":"/blogs/cg-the-method-of-conjugate-directions/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:15.736-07:00","updated":"2023-10-24T01:26:35.490-06:00"}
 ---
 
 ### High-level idea
