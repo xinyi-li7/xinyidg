@@ -21,6 +21,6 @@ My Maser's work also gives me firm grounding in rigorous analysis of algorithms,
 
 > [!tldr|]- [CV](https://www.dropbox.com/scl/fi/kguj7ssoveh9bjkskipbr/cv.pdf?rlkey=rhxb4dqsrvc9grkait1wxu5cc&dl=0)
 
-> [!Note]- [[Blogs/Blogs Map\|Blogs]]
+> [!Note]- [[Blogs Map\|Blogs]]
 
 > [!example]- [[Publications\|Publications]]
