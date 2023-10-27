@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-20T16:16:23.684-06:00","updated":"2023-10-27T15:11:00.750-06:00"}
 ---
 
 ## About Me
->[!blank] 
-> [![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu), [![Pasted image 20231026233817.png|25](/img/user/attachment/Pasted%20image%2020231026233817.png)](https://scholar.google.com/citations?user=EOa-9jEAAAAJ&hl=en)
+[![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu), [![Pasted image 20231026233817.png|25](/img/user/attachment/Pasted%20image%2020231026233817.png)](https://scholar.google.com/citations?user=EOa-9jEAAAAJ&hl=en)
 
 > [!blank|float-left-medium] 
 > ![index.jpg](/img/user/img/index.jpg)
