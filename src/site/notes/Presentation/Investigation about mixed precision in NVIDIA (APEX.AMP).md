@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/Investigation about mixed precision in NVIDIA (APEX.AMP).md","permalink":"/blogs/investigation-about-mixed-precision-in-nvidia-apex-amp/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"Blogs/Investigation about mixed precision in NVIDIA (APEX.AMP).md","permalink":"/blogs/investigation-about-mixed-precision-in-nvidia-apex-amp/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:08.595-07:00","updated":"2023-10-27T14:37:43.230-06:00"}
 ---
 
 # AMP
