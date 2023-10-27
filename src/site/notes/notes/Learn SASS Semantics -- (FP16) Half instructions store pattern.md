@@ -1,5 +1,5 @@
 ---
-{"title":"SASS Semantics -- Half instructions store pattern","tags":["CUDA","SASS"],"date":"2022-05-12","dg-publish":true,"permalink":"/notes/learn-sass-semantics-fp-16-half-instructions-store-pattern/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"SASS Semantics -- Half instructions store pattern","tags":["CUDA","SASS"],"date":"2022-05-12","dg-publish":true,"dg-path":"Blogs/Learn SASS Semantics -- (FP16) Half instructions store pattern.md","permalink":"/blogs/learn-sass-semantics-fp-16-half-instructions-store-pattern/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:13.813-07:00","updated":"2023-10-27T14:38:14.759-06:00"}
 ---
 
 
