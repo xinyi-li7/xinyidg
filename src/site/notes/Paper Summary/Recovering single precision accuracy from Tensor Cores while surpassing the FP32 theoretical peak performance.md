@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/Recovering single precision accuracy from Tensor Cores while surpassing the FP32 theoretical peak performance.md","permalink":"/blogs/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/paper-summary/recovering-single-precision-accuracy-from-tensor-cores-while-surpassing-the-fp-32-theoretical-peak-performance/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #### Abstract
