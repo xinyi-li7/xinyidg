@@ -1,5 +1,5 @@
 ---
-{"title":"FPchecker - CMakeLists.txt","tags":["install","FPChecker","quick_setup"],"date":"2022-05-12","dg-publish":true,"permalink":"/notes/f-pchecker-c-make-lists-txt/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"FPchecker - CMakeLists.txt","tags":["install","FPChecker","quick_setup"],"date":"2022-05-12","dg-publish":true,"dg-path":"Blogs/FPchecker - CMakeLists.txt.md","permalink":"/blogs/f-pchecker-c-make-lists-txt/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:13.723-07:00","updated":"2023-10-24T01:21:23.879-06:00"}
 ---
 
 
