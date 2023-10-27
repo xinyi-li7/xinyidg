@@ -16,6 +16,18 @@ My Maser's work also gives me firm grounding in rigorous analysis of algorithms,
 
 ==I am actively seeking postdoctoral positions and job opportunities where I can further apply and expand upon my expertise in Spring 2024 now!==
 
+> [!multi-column]
+>
+>> [!note]+ Work
+>> your notes or lists here. using markdown formatting
+>
+>> [!warning]+ Personal
+>> your notes or lists here. using markdown formatting
+>
+>> [!summary]+ Charity
+>> your notes or lists here. using markdown formatting
+
+
 > [!multi-column|center-fixed]
 > 
 >> [!tldr|pw3]- [CV](https://www.dropbox.com/scl/fi/kguj7ssoveh9bjkskipbr/cv.pdf?rlkey=rhxb4dqsrvc9grkait1wxu5cc&dl=0)
@@ -25,4 +37,4 @@ My Maser's work also gives me firm grounding in rigorous analysis of algorithms,
 >> [!example|pw3] [[Publications\|Publications]]
 >
 >> [!question|pw4] Contacts
->> [![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu)
+>> [![Pasted image 20231024010626.png|25](/img/user/attachment/Pasted%20image%2020231024010626.png)](https://www.linkedin.com/in/xinyi-li-5803b7120/), [![Pasted image 20231024010733.png|25](/img/user/attachment/Pasted%20image%2020231024010733.png)](https://github.com/xinyi-li7), [![Pasted image 20231024011103.png|30](/img/user/attachment/Pasted%20image%2020231024011103.png)](mailto:xin_yi.li@utah.edu), [![Pasted image 20231026233817.png|25](/img/user/attachment/Pasted%20image%2020231026233817.png)](https://scholar.google.com/citations?user=EOa-9jEAAAAJ&hl=en)
