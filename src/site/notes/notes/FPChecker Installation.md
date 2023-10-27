@@ -1,5 +1,5 @@
 ---
-{"title":"FPChecker Installation","tags":["install","FPChecker","quick_setup"],"date":"2022-05-12","dg-publish":true,"dg-path":"Blogs/FPChecker Installation.md","permalink":"/blogs/fp-checker-installation/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"FPChecker Installation","tags":["install","FPChecker","quick_setup"],"date":"2022-05-12","dg-publish":true,"permalink":"/notes/fp-checker-installation/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
