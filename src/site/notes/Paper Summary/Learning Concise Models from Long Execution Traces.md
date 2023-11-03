@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/paper-summary/learning-concise-models-from-long-execution-traces/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-30T11:57:12.636-06:00","updated":"2023-11-03T16:59:02.551-06:00"}
+{"dg-publish":true,"permalink":"/paper-summary/learning-concise-models-from-long-execution-traces/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-30T11:57:12.636-06:00","updated":"2023-11-03T17:21:17.011-06:00"}
 ---
 
+- Paper: https://arxiv.org/pdf/2001.05230.pdf
+- Github: https://github.com/natasha-jeppu/Trace2Model/tree/develop
 ### Introduction
 ##### Motivation -- What can we learn from the traces
 Hardware & Software are designed in different companies 
