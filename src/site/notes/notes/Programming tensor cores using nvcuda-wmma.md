@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/Programming tensor cores using nvcuda-wmma.md","permalink":"/blogs/programming-tensor-cores-using-nvcuda-wmma/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-07-27T16:07:04.000-06:00","updated":"2023-12-18T14:18:45.058-07:00"}
+{"dg-publish":true,"dg-path":"Blogs/Programming tensor cores using nvcuda-wmma.md","permalink":"/blogs/programming-tensor-cores-using-nvcuda-wmma/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-07-27T16:07:04.000-06:00","updated":"2023-12-18T14:21:43.794-07:00"}
 ---
 
 
@@ -28,8 +28,8 @@ This is super important to understand ==**How `blockDim`, `gridDim` are defined,
 - Notice the threadIdx is consecutive in a warp! (0-31 for warp 0, 32-63 for warp 1....)
 - Codes are only effectively on this leading thread of a warp (0, 32, ...). 
 
-
-
+![Wmma warp programming.png](/img/user/attachment/Wmma%20warp%20programming.png)
+[[Wmma warp programming.svg]]
 
 ### How work is distributed among the warp
 From [[Characterizing_the_Error_Resilience_of_Applications_using_Mixed_Precision_Floating_Point_Formats.pdf]], it is concluded that each thread stores which partition of the matrix. The arithmetic algorithm is not demonstrated here since they performed on the tensor cores hardware. 
