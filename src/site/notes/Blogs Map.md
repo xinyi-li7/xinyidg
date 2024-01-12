@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-map/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-25T20:19:42.787-06:00","updated":"2023-10-27T15:45:46.427-06:00"}
+{"dg-publish":true,"permalink":"/blogs-map/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-25T20:19:42.787-06:00","updated":"2024-01-11T23:44:28.696-07:00"}
 ---
 
 
 ### Paper Reading
 [[Presentation/Recovering single precision accuracy from Tensor Cores while surpassing the FP32 theoretical peak performance -- Hiroyuki Ootomo, Rio Yokota\|Recovering single precision accuracy from Tensor Cores while surpassing the FP32 theoretical peak performance -- Hiroyuki Ootomo, Rio Yokota]]
+
+### Study on matrix units of AMD and NVIDIA GPUs
+[[notes/Investigation on NVIDIA Tensor cores v.s. AMD Matrix cores\|Investigation on NVIDIA Tensor cores v.s. AMD Matrix cores]]
+- [[notes/AMD matrix cores\|AMD matrix cores]]
+- [[notes/NVIDIA tensor cores\|NVIDIA tensor cores]]
+[[notes/Matrix Multiplication Background\|Matrix Multiplication Background]]
+- [[notes/Tiled Matrix Multiplication -- CUDA implementation\|Tiled Matrix Multiplication -- CUDA implementation]]
+- [[notes/Programming tensor cores using nvcuda-wmma\|Programming tensor cores using nvcuda-wmma]]
 
 ### FPChecker
 [[notes/FPChecker\|FPChecker]]
