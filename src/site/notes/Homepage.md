@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-20T16:16:23.684-06:00","updated":"2023-10-27T15:11:00.750-06:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-20T16:16:23.684-06:00","updated":"2024-01-12T00:07:52.402-07:00"}
 ---
 
 ## About Me
@@ -9,7 +9,11 @@
 > ![index.jpg](/img/user/img/index.jpg)
 
 
-I'm currently a fifth-year Ph.D. candidate at the [University of Utah](https://www.utah.edu/), I specialize in the analysis of floating point behaviors within high-performance systems.I have the fortune to be advised by [Prof. Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/). Before this, I earned my Master's in Computer Science at [the University of Texas at Dallas](https://www.utdallas.edu/) under the guidance of [Prof. Kyle Fox](https://personal.utdallas.edu/~kyle.fox/). I hold a Bachelor of Science degree from the [Beijing University of Posts and Telecommunications](http://bupt.admissions.cn/) in the field of Internet of Science.
+I'm currently a fifth-year Ph.D. candidate at the [University of Utah](https://www.utah.edu/), I specialize in the analysis of floating point behaviors within high-performance systems.I have the fortune to be advised by [Prof. Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/). 
+
+Before this, I earned my Master's in Computer Science at [the University of Texas at Dallas](https://www.utdallas.edu/) under the guidance of [Prof. Kyle Fox](https://personal.utdallas.edu/~kyle.fox/). I studied on the computational geometric algorithm then and my master thesis is [Approximating the Geometric Edit Distance](https://arxiv.org/pdf/1910.00773.pdf). 
+
+I hold a Bachelor of Science degree from the [Beijing University of Posts and Telecommunications](http://bupt.admissions.cn/) in the field of Internet of Science.
 
 My research passion lies in understanding numerical behaviors and ensuring numerical correctness, especially in high-performance accelerators like NVIDIA and AMD GPUs. I delve deep into topics such as Floating-point Error and Exception Analysis, High-Performance Computing Binary Instrumentation, Tensor Core Numerical Behavior and Systematic Reverse-Engineering of Numerical Behavior.
 
