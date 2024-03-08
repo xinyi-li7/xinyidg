@@ -1,5 +1,5 @@
 ---
-{"title":"SASS Semantics -- Half instructions store pattern","tags":["CUDA","SASS"],"date":"2022-05-12","dg-publish":true,"dg-path":"Blogs/Learn SASS Semantics -- (FP16) Half instructions store pattern.md","permalink":"/blogs/learn-sass-semantics-fp-16-half-instructions-store-pattern/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:13.813-07:00","updated":"2023-10-27T14:38:14.759-06:00"}
+{"title":"SASS Semantics -- Half instructions store pattern","tags":["CUDA","SASS"],"date":"2022-05-12","dg-publish":true,"dg-path":"Blogs/Learn SASS Semantics -- (FP16) Half instructions store pattern.md","permalink":"/blogs/learn-sass-semantics-fp-16-half-instructions-store-pattern/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:13.813-07:00","updated":"2024-01-25T18:36:26.391-07:00"}
 ---
 
 
@@ -28,14 +28,13 @@ HFMA2.<MRG_H0|MRG_H1|F32>.<FTZ|FMZ>.<SAT> d, a.<H0_H0|H1_H1|F32>, <->b.<H0_H0|H1
 
 #### Result
 
-|opcodes|\# of operands|operand type|Destination|store pattern|comments|
-|-------|-------------|------------|-----------|-------------|--------|
-|`HADD2.FP32`|3 operands|REG;IMM_UINT64;CBANK|First operands; REG|[Learn SASS Semantics -- (FP16) Half instructions store pattern](Learn%20SASS%20Semantics%20--%20(FP16)%20Half%20instructions%20store%20pattern.md)|Seems it transfer FP16 to FP32 by adding 0|
-|`HADD2`|4 operands|REG;IMM_UINT64;CBANK|First two operands seems to store the same result; REG|[Learn SASS Semantics -- (FP16) Half instructions store pattern](Learn%20SASS%20Semantics%20--%20(FP16)%20Half%20instructions%20store%20pattern.md)|See issue [Lower 16-bits are zero in HADD2 four operands case](../../../notes/Learn%20SASS%20Semantics%20--%20FP16.md#lower-16-bits-are-zero-in-hadd2-four-operands-case)|
-|`HADD2`|3 operands|REG;IMM_UINT64;CBANK|First operands; REG|[Learn SASS Semantics -- (FP16) Half instructions store pattern](Learn%20SASS%20Semantics%20--%20(FP16)%20Half%20instructions%20store%20pattern.md)||
-|`HADD2.FP32`|4 operands|?|?|[Learn SASS Semantics -- (FP16) Half instructions store pattern](Learn%20SASS%20Semantics%20--%20(FP16)%20Half%20instructions%20store%20pattern.md)||
-||||||||
 
+| opcode                     | \# of operands | scenario                           | Destination store pattern                                                                                                                     |
+| -------------------------- | -------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| HADD2/HMUL2 (HFMA2)        | 3 (4)          | normal half, normal half2 function | after execution, the dest. register store two 16-bits number. For `half` case, two same numbers, for `half2` case, may store different number |
+| HADD2/HMUL2 (HFMA2)        | 4 (5?)         | add numbers with `__float2half2` function                                   |       after execution, only one the first reg store the dest. value. It stores two 16-bits number.                                                                                                                                        |
+| (HADD2/HMUL2 (HFMA2)).FP32 | 3 (4)          | seems to do `half2float` and `float2half` to do computation                                  |    first reg. store the dest. value and it's one 32-bits number                                                                                                                                           |
+|                            |                |                                    |                                                                                                                                               |
 #### Exploration
 
 [Learn SASS Semantics FP16 -- H0_H0 or H1_H1](Learn%20SASS%20Semantics%20FP16%20--%20H0_H0%20or%20H1_H1.md)
