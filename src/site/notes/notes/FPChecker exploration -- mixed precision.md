@@ -88,7 +88,7 @@ For now, just say the `histogram` could help reduce most exceptions, while add a
 #### Definitions 
 [[notes/IEEE - 754 floating-points - Different representation of a floating-point\|IEEE - 754 floating-points - Different representation of a floating-point]]
 [[notes/IEEE - $e_{max}$, $e_{min}$\|IEEE - $e_{max}$, $e_{min}$]]
-[[notes/IEEE - 754 subnormal\|IEEE - 754 subnormal]]
+[[IEEE - 754 subnormal\|IEEE - 754 subnormal]]
 [[notes/IEEE - Special values (NaN, INF, subnormal)\|IEEE - Special values (NaN, INF, subnormal)]]
 
 
