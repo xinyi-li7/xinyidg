@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-20T16:16:23.684-06:00","updated":"2024-01-12T00:07:52.402-07:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-20T18:16:23.684-04:00","updated":"2024-05-08T15:42:23.442-04:00"}
 ---
 
 ## About Me
@@ -17,7 +17,7 @@ I hold a Bachelor of Science degree from the [Beijing University of Posts and Te
 
 My research passion lies in understanding numerical behaviors and ensuring numerical correctness, especially in high-performance accelerators like NVIDIA and AMD GPUs. I delve deep into topics such as Floating-point Error and Exception Analysis, High-Performance Computing Binary Instrumentation, Tensor Core Numerical Behavior and Systematic Reverse-Engineering of Numerical Behavior.
 
-My Maser's work also gives me firm grounding in rigorous analysis of algorithms, and CS Theory which helps me approach practical issues and follow the design of intricate numerical algorithms. 
+My Master's work also gives me firm grounding in rigorous analysis of algorithms, and CS Theory which helps me approach practical issues and follow the design of intricate numerical algorithms. 
 
 ==I am actively seeking postdoctoral positions and job opportunities where I can further apply and expand upon my expertise in Spring 2024 now!==
 
