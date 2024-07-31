@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/publications/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-24T21:31:36.543-06:00","updated":"2024-03-12T15:35:02.667-06:00"}
+{"dg-publish":true,"permalink":"/publications/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-03-12T14:35:02.000-07:00","updated":"2024-07-31T12:26:33.997-07:00"}
 ---
 
-[1] Numerical Correctness in AMD and NVIDIA GPUs. **Xinyi Li**, Ang Li, Bo Fang, Ignacio Laguna and Ganesh Gopalakrishnan. *In submission*
+[8] # FTTN: Feature-Targeted Testing for Numerical Properties of NVIDIA & AMD Matrix Accelerators. **Xinyi Li**, Ang Li, Bo Fang, Ignacio Laguna and Ganesh Gopalakrishnan. In _2024 24th IEEE/ACM international symposium on cluster, cloud and grid computing (CCGRID)_. IEEE, 2024.
 
 
 [7] A GPU accelerated mixed-precision Smoothed Particle Hydrodynamics framework with cell-based relative coordinates. Zirui Mao, **Xinyi Li**, Shenyang Hu, Ganesh Gopalakrishnan, and Ang Li.  _Engineering Analysis with Boundary Elements_ 161 (2024): 113-125.
