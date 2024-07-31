@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-05-08T12:42:23.000-07:00","updated":"2024-07-16T10:27:34.043-07:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-16T10:36:26.000-07:00","updated":"2024-07-31T12:44:10.764-07:00"}
 ---
 
 ## About Me
@@ -9,7 +9,7 @@
 > ![index.jpg](/img/user/img/index.jpg)
 
 
-I'm currently a Postdoc researcher at []() . I obtained my Ph.D. degree at the [University of Utah](https://www.utah.edu/), I specialize in the analysis of floating point behaviors within high-performance systems.I have the fortune to be advised by [Prof. Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/). 
+I'm currently a Postdoc researcher at [Pacific Northwest National Laboratory(PNNL)](https://www.pnnl.gov/) . I obtained my Ph.D. degree at the [University of Utah](https://www.utah.edu/), I specialize in the analysis of floating point behaviors within high-performance systems.I have the fortune to be advised by [Prof. Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/). 
 
 Previously, I earned my Master's in Computer Science at [the University of Texas at Dallas](https://www.utdallas.edu/) under the guidance of [Prof. Kyle Fox](https://personal.utdallas.edu/~kyle.fox/). I studied on the computational geometric algorithm then and my master thesis is [Approximating the Geometric Edit Distance](https://arxiv.org/pdf/1910.00773.pdf). 
 
@@ -19,7 +19,7 @@ My research passion lies in understanding numerical behaviors and ensuring numer
 
 My Master's work also gives me firm grounding in rigorous analysis of algorithms, and CS Theory which helps me approach practical issues and follow the design of intricate numerical algorithms. 
 
-==I am actively seeking postdoctoral positions and job opportunities where I can further apply and expand upon my expertise in Spring 2024 now!==
+==I am working as a PostDoc at PNNL now!==
 
 
 
