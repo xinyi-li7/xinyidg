@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/HPC system - CHPC.md","permalink":"/blogs/hpc-system-chpc/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-04-18T19:07:10.000-07:00","updated":"2024-10-08T22:54:24.946-07:00"}
+{"dg-publish":true,"dg-path":"Blogs/HPC system - CHPC.md","permalink":"/blogs/hpc-system-chpc/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-04-18T19:07:10.000-07:00","updated":"2024-10-09T15:18:08.299-07:00"}
 ---
 
 ## Basic commands
@@ -22,7 +22,7 @@ srun -M notchpeak --account=owner-gpu-guest --partition=notchpeak-gpu-guest --no
 ```
 #### Check job's status
 ```
-squeue -u u1266620
+squeue -u <your uid>
 ```
 - link: https://www.chpc.utah.edu/documentation/software/slurm.php#squeue
 #### Check the node state
