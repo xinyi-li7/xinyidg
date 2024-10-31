@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-map/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-25T20:19:42.787-06:00","updated":"2024-01-11T23:44:28.696-07:00"}
+{"dg-publish":true,"permalink":"/blogs-map/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-25T19:19:42.787-07:00","updated":"2024-10-31T01:36:00.911-07:00"}
 ---
 
 
@@ -14,6 +14,8 @@
 - [[notes/Tiled Matrix Multiplication -- CUDA implementation\|Tiled Matrix Multiplication -- CUDA implementation]]
 - [[notes/Programming tensor cores using nvcuda-wmma\|Programming tensor cores using nvcuda-wmma]]
 
+### GPU performance optimization
+[[notes/NVIDIA GPU Performance Background\|NVIDIA GPU Performance Background]]
 ### FPChecker
 [[notes/FPChecker\|FPChecker]]
 - [[notes/FPChecker Installation\|FPChecker Installation]]
