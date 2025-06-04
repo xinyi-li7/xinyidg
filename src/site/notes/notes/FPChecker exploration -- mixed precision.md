@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/FPChecker exploration -- mixed precision.md","permalink":"/blogs/fp-checker-exploration-mixed-precision/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-24T00:21:49.000-07:00","updated":"2025-06-04T14:23:52.131-07:00"}
+{"dg-publish":true,"dg-path":"Blogs/FPChecker exploration -- mixed precision.md","permalink":"/blogs/fp-checker-exploration-mixed-precision/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-24T00:21:49.000-07:00","updated":"2025-06-04T14:25:48.654-07:00"}
 ---
 
 - tag: #Project 
@@ -118,7 +118,7 @@ See the [[notes/FPChecker exploration -- mixed precision#The locations which is 
 python3 check_plain_logs.py -s ./single/build/.fpc_logs/fpc_attenborough_26497.json -d ./double/build/.fpc_logs/fpc_attenborough_26480.json
 ```
 
-##### The locations with exponent >127 or <-127 in both single and double
+##### The locations with exponent larger than 127 or less than -127 in both single and double
 [he_double.txt], [he_single.txt]
 ```
 python3 High_exponent.py ./double/build/.fpc_logs/histogram_attenborough_26480.json fp64
