@@ -1,8 +1,8 @@
 ---
-{"title":"CG -- Eigenvalues (Eigenvectors) and convergency","tags":["Mathematical"],"dg-publish":true,"dg-path":"Blogs/CG -- Eigenvalues (Eigenvectors) and convergency.md","permalink":"/blogs/cg-eigenvalues-eigenvectors-and-convergency/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-24T00:26:41.000-07:00","updated":"2024-10-09T15:30:20.560-07:00"}
+{"title":"CG -- Eigenvalues (Eigenvectors) and convergency","tags":["Mathematical"],"dg-publish":true,"dg-path":"Blogs/CG -- Eigenvalues (Eigenvectors) and convergency.md","permalink":"/blogs/cg-eigenvalues-eigenvectors-and-convergency/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-09T15:30:20.000-07:00","updated":"2025-06-04T14:18:18.258-07:00"}
 ---
 
-### Apply a matrix to Eigenvectors \<=\> Apply an eigenvalue to this vector
+### Apply a matrix to Eigenvectors $<=>$ Apply an eigenvalue to this vector
 
 
 Iterative methods often depend on applying matrix $B$ to a vector over and over again. 
