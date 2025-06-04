@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blogs/FPChecker exploration -- mixed precision.md","permalink":"/blogs/fp-checker-exploration-mixed-precision/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-02-20T17:56:09.976-07:00","updated":"2023-10-24T01:21:49.877-06:00"}
+{"dg-publish":true,"dg-path":"Blogs/FPChecker exploration -- mixed precision.md","permalink":"/blogs/fp-checker-exploration-mixed-precision/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-10-24T00:21:49.000-07:00","updated":"2025-06-04T14:23:52.131-07:00"}
 ---
 
 - tag: #Project 
@@ -56,7 +56,7 @@ see [he_double.json](https://drive.google.com/file/d/19hG_tEQo3EHU1jQ46UIaAr-_bB
 #### ~~Combine the information from [[notes/FPChecker exploration -- mixed precision#For the shared lines between double and single the events difference\|difference events between double and single]] and [[notes/FPChecker exploration -- mixed precision#Find the location with high density w r t edge exponent in double\|double high exponent]]~~ Overlap between high exponent lines and big_diff+added lines. 
 ##### lines in high exponent but not in diff lines?
 All with -1023 exponent but no events detected: reasonable. When `e=-1023`, the corresponding value is 0. See [[notes/IEEE - 754 floating points#Exponent\|IEEE - 754 floating points#Exponent]]
-##### Events <-> exponents
+##### Events == exponents
 
 
 #### The differences in `he_single.txt` and `he_double.txt`
